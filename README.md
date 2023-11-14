@@ -47,12 +47,13 @@ Dork Eye is written for Python 3. Clone the git repository and install the requi
 ****
 
 # Linux
+``` bash
 sudo git clone https://github.com/H7AM0/Dorks-Eye.git
 
 cd dorks-eye
 
 pip3 install -r requirements.txt
-
+```
 # Dorks Eye Usage Linux
 
 sudo python3 main.py
