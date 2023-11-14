@@ -47,7 +47,7 @@ Dork Eye is written for Python 3. Clone the git repository and install the requi
 ****
 
 # Linux
-sudo git clone https://github.com/BullsEye0/dorks-eye.git
+sudo git clone https://github.com/H7AM0/Dorks-Eye.git
 
 cd dorks-eye
 
@@ -61,7 +61,7 @@ sudo python3 main.py
 
 # Termux
 
-git clone https://github.com/BullsEye0/dorks-eye.git
+git clone https://github.com/H7AM0/Dorks-Eye.git
 
 cd dorks-eye
 
