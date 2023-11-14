@@ -57,8 +57,6 @@ pip3 install -r requirements.txt
 
 sudo python3 dorks-eye.py
 
-That’s all ..!
-Have fun 😃
 ****
 
 # Termux
@@ -73,9 +71,6 @@ pip install -r requirements.txt
 
 python dorks-eye.py
 
-****
-
-![Screenshot](Img/vb2.png)
 ****
 
 ## I also want to make you aware that:
