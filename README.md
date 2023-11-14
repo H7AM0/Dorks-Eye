@@ -49,29 +49,19 @@ Dork Eye is written for Python 3. Clone the git repository and install the requi
 # Linux
 ``` bash
 sudo git clone https://github.com/H7AM0/Dorks-Eye.git
-
-cd dorks-eye
-
+cd Dorks-Eye
 pip3 install -r requirements.txt
-```
-# Dorks Eye Usage Linux
-
 sudo python3 main.py
-
+```
 ****
 
 # Termux
-
+``` bash
 git clone https://github.com/H7AM0/Dorks-Eye.git
-
-cd dorks-eye
-
+cd Dorks-Eye
 pip install -r requirements.txt
-
-# Usage Termux
-
 python main.py
-
+```
 ****
 
 ## I also want to make you aware that:
@@ -98,11 +88,3 @@ Social Networks - Connect
 * [Facebook Page](https://www.facebook.com/ethical.hack.group)
 
 * [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
-
-
-
-[Donate](https://bullseye0.com/donate)
-
-BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/profiles
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
