@@ -75,16 +75,7 @@ causing malicious or damaging attacks.
 ****
 
 # Contact to coder
-Social Networks - Connect
 
-* Website [HackingPassion.com](https://hackingpassion.com)
+* [Instagram](https://www.instagram.com/4.4cq/)
 
-* [Facebook Personal](https://www.facebook.com/jolandadekoff)
-
-* [linkedin](https://www.linkedin.com/in/jolandadekoff/)
-
-* [Youtube](https://youtu.be/XCtWM-4ov2U)
-
-* [Facebook Page](https://www.facebook.com/ethical.hack.group)
-
-* [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
+* [Telegram](https://t.me/hamo_back)
