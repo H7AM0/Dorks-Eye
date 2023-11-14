@@ -55,7 +55,7 @@ pip3 install -r requirements.txt
 
 # Dorks Eye Usage Linux
 
-sudo python3 dorks-eye.py
+sudo python3 main.py
 
 ****
 
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 # Usage Termux
 
-python dorks-eye.py
+python main.py
 
 ****
 
