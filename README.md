@@ -5,11 +5,6 @@ Dorks Eye is a script I made in python 3. With this tool, you can easily find Go
 
 ****
 
-Here you can read the article about Dorks Eye:
-
-https://hackingpassion.com/dorks-eye-google-hacking-dork-scraping-and-searching-script/
-****
-
 ![Screenshot](Img/dork-eye-banner.png)
 ***
 
