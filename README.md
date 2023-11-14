@@ -78,20 +78,6 @@ python dorks-eye.py
 ![Screenshot](Img/vb2.png)
 ****
 
-## A collection Google Dork List:
-Google Dork List
-Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks ..! This list is regularly updated !.
-.
-* https://github.com/BullsEye0/google_dork_list
-****
-
-![Screenshot](Img/banner_dork-list.png)
-****
-
-## Video Dorks Eye on YouTube:
-[Link to: Shodan Eye on YouTube](https://youtu.be/fOqmlOLiMsQ "Shodan Eye on YouTube")
-****
-
 ## I also want to make you aware that:
 * This was written for educational purpose and pentest only.
 * The author will not be responsible for any damage ..!
@@ -118,14 +104,6 @@ Social Networks - Connect
 * [Facebook Group](https://www.facebook.com/groups/ethical.hack.group/)
 
 
-
-***
-
-## Donate
-
-
-I have developed Dorks Eye because I am passionate about this. 
-Donations are one of the many ways to support what I do.
 
 [Donate](https://bullseye0.com/donate)
 
