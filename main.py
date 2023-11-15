@@ -46,7 +46,8 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.0025)
 
-jalan(f"{RED}  {"=" * 65}")
+lol = str("=" * 65)
+jalan(f"{RED}  {lol}")
 
 DORKS_EYE = (f"""{BLUE}
  ▓█████▄  ▒█████   ██▀███   ██ ▄█▀  ██████    ▓█████▓██   ██▓▓█████
@@ -71,7 +72,7 @@ filename = input(f" {BLUE2}[?]{GREEN} Enter the file name {PURPLE}->{YELLOW} ")
 if '.txt' not in filename:
     filename = f'{filename}.txt'
 print()
-jalan(f"{RED}  {"=" * 65}")
+jalan(f"{RED}  {lol}")
 print()
 
 numb = 0
@@ -92,7 +93,7 @@ for result in search(DORK, tld="com", lang="en", num=AMOUNT, start=0, stop=None,
 
 
 print()
-jalan(f"{RED}  {"=" * 65}")
+jalan(f"{RED}  {lol}")
 print()
 input(F' {BLUE2}[!] {YELLOW} The file has been completed and saved in {RESET_COLOR}{filename} \n {BLUE2}[?]{GREEN} Press Enter to close {PURPLE}->{YELLOW} ')
 hamo_logo(logo)
